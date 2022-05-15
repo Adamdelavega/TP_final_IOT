@@ -4,27 +4,27 @@ file -> new Project
 
 on cherches une carte qui s'appelle : `STM32F407G-DISC1`
 
-![](1.png)
+![](img/1.png)
 
 On double click et ça devrait nous mettre un écran truc "initialize all peripherals" on mets oui
 
-![](2.png)
+![](img/2.png)
 
 On renommes les leds pour que ça soit plus explicite,
 
-![](3.png)
+![](img/3.png)
 
-![](4.png)
+![](img/4.png)
 
 
 pour les ADC :
-![](5.png)
-![](6.png)
-![](7.png)
-![](8.png)
-![](9.png)
-![](10.png)
-![](11.png)
+![](img/5.png)
+![](img/6.png)
+![](img/7.png)
+![](img/8.png)
+![](img/9.png)
+![](img/10.png)
+![](img/11.png)
 
 pour finir :
 
